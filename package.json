@@ -1,0 +1,24 @@
+{
+  "name": "cloudinary_media_upload",
+  "version": "1.0.0",
+  "description": "Simple Nodejs App to upload media assets to cloudinary ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajafik/cloudinary_media_upload.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Cloudinary",
+    "Javascript"
+  ],
+  "author": "Oluwafikayo Ajayi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajafik/cloudinary_media_upload/issues"
+  },
+  "homepage": "https://github.com/ajafik/cloudinary_media_upload#readme"
+}
