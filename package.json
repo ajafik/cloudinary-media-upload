@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ajafik/cloudinary_media_upload/issues"
   },
-  "homepage": "https://github.com/ajafik/cloudinary_media_upload#readme"
+  "homepage": "https://github.com/ajafik/cloudinary_media_upload#readme",
+  "dependencies": {
+    "cloudinary": "^1.14.0"
+  }
 }
