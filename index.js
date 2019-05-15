@@ -1,7 +1,6 @@
 let uploadHelper = require('./utils/upload');
 
-
-//uploadHelper.uploadImage("media_assets/nodejs.png","test","check");
+uploadHelper.uploadImage("media_assets/nodejs.png","test","check");
 // uploadHelper.uploadImage("images/nodejs.png","test");
 // uploadHelper.uploadImage("images/nodejs.png");
 
