@@ -4,4 +4,6 @@
 
 
 ## Todo:
-- Create Express APi entry points for the Media Asset uploads.
+- Create Express API entry points for the Media Asset uploads.
+
+> Oluwafikayo Ajayi (ajafik)
